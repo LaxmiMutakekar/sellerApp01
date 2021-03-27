@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
     "name": "sellerapp",
     "short_name": "sellerapp",
+=======
+    "name": "seller01",
+    "short_name": "seller01",
+>>>>>>> first commit
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

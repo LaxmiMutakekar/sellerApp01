@@ -1,7 +1,14 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+<<<<<<< HEAD
     package="com.example.sellerapp">
    <application
         android:label="sellerapp"
+=======
+    package="com.example.seller01">
+   <application
+        android:usesCleartextTraffic="true"
+        android:label="seller01"
+>>>>>>> first commit
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"

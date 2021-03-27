@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # sellerapp
+=======
+# seller01
+>>>>>>> first commit
 
 A new Flutter project.
 
