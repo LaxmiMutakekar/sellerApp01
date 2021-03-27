@@ -1,24 +1,4 @@
 import 'package:flutter/material.dart';
-<<<<<<< HEAD
-import 'drawer.dart';
-import 'homeScreen.dart';
-
-void main() {
-  runApp(MaterialApp(home: SellerApp(),));
-}
-
-class SellerApp extends StatelessWidget {
-  @override
-  Widget build(BuildContext context) {
-    return Scaffold(
-      body: Stack(
-          children: [
-            DrawerScreen(),
-            HomeScreen(),
-            //MyHomePage(),
-          ]
-      ),
-=======
 import 'package:seller01/DashboardMenu.dart';
 void main() {
   runApp(MyApp());
@@ -34,7 +14,7 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-
+ 
 class MyHomePage extends StatefulWidget {
   MyHomePage({Key key, this.title}) : super(key: key);
 
@@ -51,7 +31,6 @@ class _MyHomePageState extends State<MyHomePage> {
     
     return Scaffold(
       body: MenuDashboard(),
->>>>>>> first commit
     );
   }
 }

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/cupertino.dart';
-import 'package:sellerapp/categorySelector.dart';
-import 'package:sellerapp/orders.dart';
+import 'package:seller01/categorySelector.dart';
+import 'package:seller01/orders.dart';
 class HomeScreen extends StatefulWidget {
   @override
   _HomeScreenState createState() => _HomeScreenState();

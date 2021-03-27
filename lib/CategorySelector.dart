@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 //import 'package:vertical/categorySelector.dart';
-import 'package:sellerapp/orders.dart';
+import 'package:seller01/orders.dart';
 class CategoriesScroller extends StatelessWidget {
   const CategoriesScroller();
   Future<List<Orders>> fetchItems (BuildContext context) async{
